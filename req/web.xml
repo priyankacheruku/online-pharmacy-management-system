@@ -1,0 +1,14 @@
+<web-app>
+
+<servlet>
+	<servlet-name>sc</servlet-name>
+	<servlet-class>Sc</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>sc</servlet-name>
+	<url-pattern>/cart</url-pattern>
+
+</servlet-mapping>
+
+</web-app>
